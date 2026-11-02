@@ -1,0 +1,5 @@
+Input :- Name = input("Enter you Name")
+         print("Hello!", name)
+
+Comment :- a = 10 #int 
+# is comment
