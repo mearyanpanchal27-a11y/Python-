@@ -1,0 +1,14 @@
+# Variables in Python
+
+first_name = 'Aryan'
+last_name = 'Panchal'
+country = 'india'
+city = 'Pune'
+age = 22
+skills = ['HTML', 'CSS', 'JS', 'React', 'Python']
+person_info = {
+    'firstname': 'Aryan',
+    'lastname': 'Panchal',
+    'country': 'India',
+    'city': 'Pune'
+}
