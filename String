@@ -1,0 +1,21 @@
+1 Example :-
+product1 = input("Enter product price : ")
+product2 = input("Enter product price: ")
+product3 = input("Enter product price: ")
+
+Total_bill = float(product1) + float(product2) + float(product3)
+def new_func(Total_bill):
+    average_price = Total_bill/3
+    return average_price
+99.5
+average_price = new_func(Total_bill)
+
+print("total bill amount:",Total_bill)
+print("Average price:", average_price)
+
+2 Example :-
+superhero_name = input("Enter your superhero name: ")
+
+starts_with_s = superhero_name.lower().startswith("s")
+
+print("Does your superhero name start with 'S'? ", starts_with_s)
